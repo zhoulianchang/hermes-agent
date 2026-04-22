@@ -44,6 +44,7 @@ AUTHOR_MAP = {
     "teknium@nousresearch.com": "teknium1",
     "127238744+teknium1@users.noreply.github.com": "teknium1",
     # contributors (from noreply pattern)
+    "wangqiang@wangqiangdeMac-mini.local": "xiaoqiang243",
     "snreynolds2506@gmail.com": "snreynolds",
     "35742124+0xbyt4@users.noreply.github.com": "0xbyt4",
     "71184274+MassiveMassimo@users.noreply.github.com": "MassiveMassimo",
@@ -96,6 +97,8 @@ AUTHOR_MAP = {
     "i@troy-y.org": "TroyMitchell911",
     "mygamez@163.com": "zhongyueming1121",
     "hansnow@users.noreply.github.com": "hansnow",
+    "134848055+UNLINEARITY@users.noreply.github.com": "UNLINEARITY",
+    "ben.burtenshaw@gmail.com": "burtenshaw",
     # contributors (manual mapping from git names)
     "ahmedsherif95@gmail.com": "asheriif",
     "liujinkun@bytedance.com": "liujinkun2025",
@@ -112,6 +115,7 @@ AUTHOR_MAP = {
     "xaydinoktay@gmail.com": "aydnOktay",
     "abdullahfarukozden@gmail.com": "Farukest",
     "lovre.pesut@gmail.com": "rovle",
+    "xjtumj@gmail.com": "mengjian-github",
     "kevinskysunny@gmail.com": "kevinskysunny",
     "xiewenxuan462@gmail.com": "yule975",
     "yiweimeng.dlut@hotmail.com": "meng93",
@@ -126,6 +130,7 @@ AUTHOR_MAP = {
     "brooklyn.bb.nicholson@gmail.com": "brooklynnicholson",
     "withapurpose37@gmail.com": "StefanIsMe",
     "4317663+helix4u@users.noreply.github.com": "helix4u",
+    "ifkellx@users.noreply.github.com": "Ifkellx",
     "331214+counterposition@users.noreply.github.com": "counterposition",
     "blspear@gmail.com": "BrennerSpear",
     "akhater@gmail.com": "akhater",
@@ -328,6 +333,8 @@ AUTHOR_MAP = {
     "zheng.jerilyn@gmail.com": "jerilynzheng",
     "asslaenn5@gmail.com": "Aslaaen",
     "shalompmc0505@naver.com": "pinion05",
+    "105142614+VTRiot@users.noreply.github.com": "VTRiot",
+    "vivien000812@gmail.com": "iamagenius00",
 }
 
 
