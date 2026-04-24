@@ -826,10 +826,15 @@ class DingTalkAdapter(BasePlatformAdapter):
         # Normalize markdown for DingTalk
         normalized = self._normalize_markdown(content[: self.MAX_MESSAGE_LENGTH])
 
+        # Extract @phone mentions for DingTalk's at field
+        import re as _re
+        _at_phones = _re.findall(r'@(\d{11})', content)
         payload = {
             "msgtype": "markdown",
             "markdown": {"title": "Hermes", "text": normalized},
         }
+        if _at_phones:
+            payload["at"] = {"atMobiles": _at_phones}
 
         try:
             resp = await self._http_client.post(
