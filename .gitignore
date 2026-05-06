@@ -72,3 +72,4 @@ website/static/api/skills-index.json
 
 # Claude Code local config
 .claude/
+models-dev-upstream/
